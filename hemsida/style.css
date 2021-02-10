@@ -1,0 +1,75 @@
+a {
+    outline: none;
+    line-height: 0px;
+    text-decoration: none;
+    color: #86b7fc
+}
+
+.nav a:hover {
+text-decoration: underline;
+}
+
+.maintext {
+    color: #86b7fc;
+    line-height: 1.5;
+    width: 500px;
+    height: 500px;
+    overflow: scroll;
+    padding-left: 350px;
+}
+.nav {
+    list-style-type: none;
+    padding: 0;
+    line-height: 2.0;
+    color: #86b7fc;
+    font-style: italic;
+    overflow: hidden;
+}
+.nav a {
+    color: #86b7fc;
+}
+.present {
+    text-decoration: underline;
+}
+.headline {
+    color: #86b7fc;
+    line-height: 1.5;
+    padding-left: 400px;
+    font-size: 20px;
+}
+.worktext {
+    color: #86b7fc;
+    line-height: 1.5;
+    width: 950px;
+    overflow: scroll;
+    padding-left: 350px;
+}
+.livetext {
+    color: #86b7fc;
+    line-height: 1.5;
+    width: 950px;
+    overflow: scroll;
+    padding-left: 350px;
+}
+.abouttext {
+    color: #86b7fc;
+    line-height: 1.5;
+    width: 600px;
+    overflow: scroll;
+    padding-left: 350px;
+}
+.curationtext {
+    color: #86b7fc;
+    line-height: 1.5;
+    width: 600px;
+    overflow: scroll;
+    padding-left: 350px;
+}
+.contacttext {
+    color: #86b7fc;
+    line-height: 1.5;
+    width: 500px;
+    height: 500px;
+    overflow: scroll;
+    padding-left: 350px;
+}
